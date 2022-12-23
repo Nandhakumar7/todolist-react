@@ -5930,9 +5930,9 @@ imagemin@^7.0.1:
     replace-ext "^1.0.0"
 
 immutable@^4.0.0-rc.12:
-  version "4.0.0-rc.12"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0-rc.12.tgz#ca59a7e4c19ae8d9bf74a97bdf0f6e2f2a5d0217"
-  integrity sha512-0M2XxkZLx/mi3t8NVwIm1g8nHoEmM9p9UBl/G9k4+hm0kBgOVdMV/B3CY5dQ8qG8qc80NN4gDV4HQv6FTJ5q7A==
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.2.0.tgz#c91f09108ed7504c2f0faec7222f40178ff97b11"
+  integrity sha512-h4ujZ0OZ3kpvdFcwJAHXEdvawH7J8TYTB62e8xI03OSZhuGpuPY9DPXnonMN8s+uQ56gMUqMK71mXU8ob20xfA==
 
 import-cwd@^2.0.0:
   version "2.1.0"
